@@ -1,4 +1,7 @@
-﻿# Marlin 3D Printer Firmware
+﻿# pyunramura/ender-3_marlin_firmware_btt_skr_1.3
+Fork of Marlin configured for Creality Ender 3 with Bigtreetech SKR 1.3.
+
+# Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
